@@ -17,7 +17,7 @@
 **Developer Tools**: Git, Docker, TravisCI, Jenkins, GitHub Actions, Android Studio, Azure DevOps, 
     XCode, Prometheus, Grafana \
 **Cloud**: Amazon Web Services, Google Cloud Platform, Azure, Vercel, Netlify  \
-**Libraries**: Pandas, NumPy, Matplotlib, TensorFlow, Tesseract OCR, Linq, ChartsJS \
+**Libraries**: Pandas, NumPy, Matplotlib, TensorFlow, Tesseract OCR, Linq, ChartsJS
 
 ***
 
@@ -71,7 +71,7 @@
 **Databases**: Postgres, MongoDB, SQLite \
 **Libraries**: React, Vue, NextJS, TensorFlow, Tesseract OCR, Fire CLI, Redis, Docker  \
 **Cloud**: Amazon Web Services, Google Cloud, Vercel, Netlify \
-**Ops & Testing:** Jenkins, Grafana, Prometheus, TravisCI, PyTest, Cypress, Selenium, Jest \
+**Ops & Testing:** Jenkins, Grafana, Prometheus, TravisCI, PyTest, Cypress, Selenium, Jest
 
 ### Bias
 

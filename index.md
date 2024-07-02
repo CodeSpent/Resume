@@ -15,7 +15,7 @@
 **UI Libraries**: SoftUI, Bootstrap, TailwindCSS, Serenity \
 **Databases**: PostgreSQL, SQL Server, MySQL, MongoDB, MemDB \
 **Developer Tools**: Git, Docker, TravisCI, Jenkins, GitHub Actions, Android Studio, Azure DevOps, 
-    XCode, Prometheus, Grafana, Jenkins \
+    XCode, Prometheus, Grafana \
 **Cloud**: Amazon Web Services, Google Cloud Platform, Azure, Vercel, Netlify  \
 **Libraries**: Pandas, NumPy, Matplotlib, TensorFlow, Tesseract OCR, Linq, ChartsJS \
 

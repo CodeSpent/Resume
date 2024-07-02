@@ -1,0 +1,5 @@
+# Build
+/dist/**/*
+
+# Editors
+.idea/**/*

@@ -1,6 +1,5 @@
 # Patrick Hanford
-# Senior Software Engineer 
-\
+# Senior Software Engineer
 
 
 [hanfordpatrick@gmail.com](mailto:hanfordpatrick@gmail.com)  
@@ -95,4 +94,4 @@
 **Databases**: Postgres, MongoDB, SQLite \
 **Libraries**: Websockets, Docker, VSCode Extensions SDK, Intellij SDK, Logrus, Zerolog, Winston, Discord, Slack \
 **Cloud**: Amazon Web Services, Google Cloud \
-**Ops & Testing:** Jenkins, Grafana, PyTest, Cypress, Jest, Mocha, Chai \
+**Ops & Testing:** Jenkins, Grafana, PyTest, Cypress, Jest, Mocha, Chai
